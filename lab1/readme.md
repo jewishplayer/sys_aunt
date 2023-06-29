@@ -6,7 +6,7 @@
 
 ## Исходные данные
 
-1. Ноутбук Huawei
+1. Ноутбук Lenovo
 
 2. ОС Ubuntu, запущенная в среде WSL (Windows Subsystem for Linux)
 
