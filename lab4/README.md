@@ -1,5 +1,5 @@
 # Развертывание Threat intelligence Platform OpenCTI
-Александр Смирнов
+Афанасьев Никита
 
 ## Цель работы
 
