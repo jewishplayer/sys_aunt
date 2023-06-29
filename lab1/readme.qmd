@@ -1,6 +1,6 @@
 ---
 title: "Получение сведений о системе"
-author: Tyvan Maxim BISO-02-20
+author: Afanasyev Nikita BISO-02-20
 format:
     md:
         output-file: README.md
