@@ -1,6 +1,6 @@
 ---
 title: "Развертывание Threat intelligence Platform OpenCTI"
-author: Александр Смирнов
+author: Афанасьев Никита
 format: 
     md:
         output-file: README.md
