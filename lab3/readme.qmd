@@ -1,6 +1,6 @@
 ---
 title: "Развертывание системы мониторинга ELK Stack (ElasticSearch)"
-author: Александр Смирнов
+author: Афанасьев Никита
 format: 
     md:
         output-file: README.md
